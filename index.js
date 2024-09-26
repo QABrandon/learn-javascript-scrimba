@@ -14,4 +14,3 @@ function save() {
     count = 0
 }
 
-console.log("Let's count people on the subway!")
