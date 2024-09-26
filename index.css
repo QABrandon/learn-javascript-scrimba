@@ -10,6 +10,7 @@ body {
 
 .container {
     background: beige;
+    background-opacity: 65%;
     max-width: 85%;
     margin: auto;
     border: 3px solid grey;
