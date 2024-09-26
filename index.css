@@ -9,13 +9,14 @@ body {
 }
 
 .container {
-    background: beige;
-    background-opacity: 65%;
+    height: 50vh;
+    vertical-align: middle;
+    background: beige / 65%;
     max-width: 85%;
     margin: auto;
     border: 3px solid grey;
     border-radius: 10px;
-    height: 50vh;
+    
 }
 
 h1 {
